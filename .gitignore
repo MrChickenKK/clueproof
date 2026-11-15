@@ -8,3 +8,6 @@ uliya-skill-kit/
 # design-tool working state
 .hallmark/
 .claude/
+
+# local Devpost delivery bundle (built from submission/, dist/ and the film)
+entrega/

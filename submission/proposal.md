@@ -2,7 +2,7 @@
 title: Clueproof
 subtitle: Project Proposal · UGREEN Hackathon 2026 on AI NAS · Track: Open Innovation
 tagline: Every photo leaves clues. Clueproof finds them first, privately, on your NAS.
-meta: "Skill: clueproof · Official UGOS Skill checker: static-pass, 0 errors, 0 warnings · Repository and interactive demo: github.com/KaraAliOsman/clueproof"
+meta: "Skill: clueproof · Official UGOS Skill checker: static-pass, 0 errors, 0 warnings · Repository and interactive demo: github.com/MrChickenKK/clueproof"
 ---
 
 <!-- answers:start -->

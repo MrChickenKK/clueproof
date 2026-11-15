@@ -9,7 +9,7 @@
   - [ ] Track: **Open Innovation**.
   - [ ] Project Proposal PDF: upload [proposal.pdf](proposal.pdf) (under 500 words, under 1 MB).
   - [ ] Pre-test Skill Package ZIP: upload [../dist/clueproof.zip](../dist/clueproof.zip) (7 Markdown files, about 21 KB of the 10 MB limit).
-  - [ ] Optional links: this repository, the interactive demo (https://karaaliosman.github.io/clueproof/) and the launch film.
+  - [ ] Optional links: this repository, the interactive demo (https://mrchickenkk.github.io/clueproof/) and the launch film.
 - [ ] Rebuild both files after any edit: `node tools/build.mjs --kit path/to/uliya-skill-kit --strict` and `python tools/make_proposal.py`.
 - [ ] Submit before the deadline; drafts can be saved and edited until then. Do not delete Round 1 materials later.
 

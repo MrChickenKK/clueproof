@@ -8,7 +8,7 @@ Clueproof is an AI Skill for UGREEN AI NAS that reads your photos the way a stra
 
 Built for the [UGREEN Hackathon 2026 on AI NAS](https://ugreenhackathon.devpost.com/) · Track: Open Innovation
 
-[Interactive demo](https://karaaliosman.github.io/clueproof/) · [Launch film](docs/launch-film/) · [Skill package (ZIP)](dist/clueproof.zip) · [Proposal (PDF)](submission/proposal.pdf) · [SKILL.md](skill/clueproof/SKILL.md)
+[Interactive demo](https://mrchickenkk.github.io/clueproof/) · [Launch film](docs/launch-film/) · [Skill package (ZIP)](dist/clueproof.zip) · [Proposal (PDF)](submission/proposal.pdf) · [SKILL.md](skill/clueproof/SKILL.md)
 
 | Official UGOS Skill checker | Package | Experts used | External calls |
 | --- | --- | --- | --- |
@@ -147,4 +147,4 @@ Not an official UGREEN product. UGREEN, UGOS and related names belong to their o
 
 ## License
 
-Copyright © 2026 Ali Osman Kara (KaraAliOsman). All rights reserved during the hackathon judging period; see [LICENSE](LICENSE). Test photos keep their original licenses.
+Copyright © 2026 Ali Osman Kara (MrChickenKK). All rights reserved during the hackathon judging period; see [LICENSE](LICENSE). Test photos keep their original licenses.
